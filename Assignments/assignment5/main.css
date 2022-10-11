@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(201, 215, 220);
+  }
+
+  .grid-container {
+    border: 2px solid rebeccapurple;
+    padding: .5em;
+    color: black;
+    padding: 40px;
+  }
+  
+  .grid-container > div{
+    margin: 2px;
+     padding: .5em;
+  }
+
+  #topic1{
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    font-size: 50px;
+  }
